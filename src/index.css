@@ -1,1 +1,8 @@
-@import "tailwindcss";
+@font-face {
+  font-family: "InterFallback";
+  src: local("Inter"), local("Arial");
+}
+
+* {
+  box-sizing: border-box;
+}

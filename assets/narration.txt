@@ -1,0 +1,13 @@
+One swap, five routes, and the best quote wins.
+
+I tested a live zero point one SOL to USDC quote on Swap dot io, without signing or moving funds. The interface compared four quotes across five routes. At capture time, OKX DEX led at about one hundred two point nine one USDC per SOL, just ahead of DFlow, Jupiter, and Autobahn.
+
+The gap was tiny, and that is the honest point: route competition is visible before wallet approval.
+
+Recurring mode split the same total into two scheduled suborders and showed the zero point one one percent platform fee before signing.
+
+Transfer adds batch, recurring, and private options, with clear third-party privacy terms. Season Zero adds achievements, weekly challenges, and an XP leaderboard.
+
+What I like: route, fee, and notices appear before Connect Wallet. You still review and sign.
+
+Swap dot io. Make aggregators compete before you do.

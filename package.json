@@ -1,17 +1,16 @@
 {
   "name": "swapio-video",
   "version": "1.0.0",
-  "description": "My Remotion video",
+  "description": "Original Swap.io product walkthrough for the Superteam video bounty.",
   "repository": {},
-  "license": "UNLICENSED",
+  "license": "MIT",
   "private": true,
   "dependencies": {
     "@remotion/cli": "4.0.522",
+    "@remotion/media": "4.0.522",
     "react": "19.2.3",
     "react-dom": "19.2.3",
-    "remotion": "4.0.522",
-    "@remotion/tailwind-v4": "4.0.522",
-    "tailwindcss": "4.0.0"
+    "remotion": "4.0.522"
   },
   "devDependencies": {
     "@remotion/eslint-config-flat": "4.0.522",
@@ -25,7 +24,8 @@
     "dev": "remotion studio",
     "build": "remotion bundle",
     "upgrade": "remotion upgrade",
-    "lint": "eslint src && tsc"
+    "lint": "eslint src && tsc",
+    "render": "remotion render SwapIoBounty output/swapio-bounty.mp4 --codec=h264 --crf=18"
   },
   "sideEffects": [
     "*.css"

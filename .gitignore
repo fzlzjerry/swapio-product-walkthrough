@@ -5,3 +5,9 @@ dist
 
 # Ignore the output video from Git but not videos you import into src/.
 out
+.venv
+output
+
+# Local visual-QA captures retained outside the source commit.
+assets/stills
+assets/studio-preview.png
