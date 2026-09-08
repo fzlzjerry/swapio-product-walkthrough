@@ -2,8 +2,14 @@
 
 ## X post
 
-Attach `output/swapio-bounty.mp4` and post this exact text from the entrant's
-public X account:
+Published from the entrant's public X account:
+
+- **Live URL:** https://x.com/moraxc08/status/2097225576126033979
+- **Published:** 2026-09-08 07:28:36 UTC
+- **Author:** `@moraxc08` / Morax Cheng
+- **Attached video:** 1920x1080, 60.053 seconds
+
+Published text:
 
 > I tested @swapdotio without moving funds: one 0.1 SOL→USDC quote surfaced four aggregators across five routes, then showed recurring-order fees, transfer tools, and Season Zero. The gap was tiny. The transparency was the feature. Built for @Superteam.
 
@@ -11,7 +17,7 @@ Character count: 251 (before X's media attachment metadata).
 
 ## Superteam form
 
-- **Submission URL:** `X_POST_URL`
+- **Submission URL:** `https://x.com/moraxc08/status/2097225576126033979`
 - **Title:** `Swap.io: See the Quote Before the Prompt`
 - **Summary:** `A 60-second live product walkthrough comparing aggregator routes, recurring-order fee visibility, transfer tools, and Season Zero. No wallet was connected and no transaction was executed.`
 - **Artifact:** `/root/bounty-hunt/2026-09-08/swapio-video/output/swapio-bounty.mp4`
@@ -27,10 +33,15 @@ Character count: 251 (before X's media attachment metadata).
 - [x] Tags `@swapdotio` and `@Superteam`.
 - [x] Avoids token, airdrop, return, or guaranteed-price claims.
 - [x] States that no wallet was connected and no transaction was executed.
-- [ ] Upload video and publish X post from the entrant's authenticated account.
-- [ ] Replace `X_POST_URL` and submit the public URL to Superteam before the deadline.
+- [x] Upload video and publish X post from the entrant's authenticated account.
+- [ ] Submit the public X URL to Superteam before the deadline.
 
 ## Evidence boundary
 
-Status is `READY_FOR_AUTHENTICATED_PUBLICATION`, not submitted. A local render is
-not evidence of an X post or a Superteam submission.
+Status is `READY_FOR_SUPERTEAM_SUBMISSION`. The live post was independently read
+back from X's oEmbed endpoint and the FxTwitter public API. It is public, authored
+by `@moraxc08`, contains both required tags, and includes the expected 60.053-second
+1920x1080 video. Evidence is saved under
+`/root/bounty-hunt/2026-09-08/evidence/swapio-post/`.
+
+A public X post is not evidence that the Superteam form was submitted.
