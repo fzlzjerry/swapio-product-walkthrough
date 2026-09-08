@@ -15,6 +15,8 @@ Character count: 251 (before X's media attachment metadata).
 - **Title:** `Swap.io: See the Quote Before the Prompt`
 - **Summary:** `A 60-second live product walkthrough comparing aggregator routes, recurring-order fee visibility, transfer tools, and Season Zero. No wallet was connected and no transaction was executed.`
 - **Artifact:** `/root/bounty-hunt/2026-09-08/swapio-video/output/swapio-bounty.mp4`
+- **Public artifact:** `https://github.com/fzlzjerry/swapio-product-walkthrough/releases/download/v1.0.0/swapio-bounty.mp4`
+- **Source:** `https://github.com/fzlzjerry/swapio-product-walkthrough` (release source commit `2a05104b2093b3e8a6ddaece930d3a1aaa81c945`)
 - **SHA-256:** `5eba509b81911d93d3a70e0f337529aa6f0ec982805e042c83254895a6bccdf2`
 
 ## Publication checklist

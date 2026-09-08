@@ -29,6 +29,8 @@ npm run render -- --concurrency=4
 
 The final artifact is written to `output/swapio-bounty.mp4`.
 
+Public release: [v1.0.0](https://github.com/fzlzjerry/swapio-product-walkthrough/releases/tag/v1.0.0), including the MP4 and a separate SHA-256 manifest.
+
 ## Verified artifact
 
 - Container: MP4
